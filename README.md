@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Django and aiogram**
 
-- 📫 How to reach me [Telegram](https://t.me/Samuraii143)
+- 📫 How to reach me [Telegram](https://t.me/Samuraiii143)
 
 - ⚡ Fun fact: sorry, but i love Emilia❤
 
