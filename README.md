@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuraii-company&label=Profile%20views&color=0e75b6&style=flat" alt="samuraii-company" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuraii-company" alt="samuraii-company" /></a> </p>
-
 - 🔭 I’m currently working on **Сrypto exchange, based on telegram api**
 
 - 🌱 I’m currently learning **Solidity**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **https://t.me/Samuraii143**
 
-- ⚡ Fun fact **sorry, but i love Emilia heart**
+- ⚡ Fun fact: sorry, but i love Emilia❤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
