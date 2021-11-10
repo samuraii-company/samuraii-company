@@ -7,3 +7,4 @@
 - 📫 How to reach me: [telegram](https://t.me/Samuraiii143)
 - ⚡ Fun fact: sorry, but i love Emilia ❤️️
 
+[alone stats](https://github-readme-stats.vercel.app/api?username=samuraii-company&show_icons=true&theme=radical)
