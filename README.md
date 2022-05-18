@@ -13,7 +13,3 @@
 - 📫 How to reach me [Telegram](https://t.me/Samuraiii143)
 
 - ⚡ Fun fact: sorry, but i love Emilia❤
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuraii-company&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samuraii-company" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuraii-company&show_icons=true&theme=tokyonight&locale=en" alt="samuraii-company" /></p>
