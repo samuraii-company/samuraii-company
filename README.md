@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuraii-company&label=Profile%20views&color=0e75b6&style=flat" alt="samuraii-company" /> </p>
 
-- 🔭 I’m currently working on **Сrypto exchange, based on telegram api**
+- 🔭 I’m currently working with **Fast API, DRF, Next JS**
 
 - 🌱 I’m currently learning **Next JS**
 
