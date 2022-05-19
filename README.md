@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Сrypto exchange, based on telegram api**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
