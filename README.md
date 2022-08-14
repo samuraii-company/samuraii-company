@@ -17,4 +17,4 @@
 
 - 📫 How to reach me [Telegram](https://t.me/Samuraiii143)
 
-- ⚡ Fun fact: sorry, but i love Emilia❤
+- ⚡ Fun fact: i love Emilia❤
