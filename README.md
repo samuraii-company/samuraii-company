@@ -15,6 +15,6 @@
 
 - 💬 Ask me about **Python, Django, DRF, FastAPI**
 
-- 📫 How to reach me [Telegram](https://t.me/Samuraiii143)
+- 📫 How to reach me [Telegram](https://t.me/samuraiii143)
 
 - ⚡ Fun fact: i love Emilia❤
