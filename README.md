@@ -7,14 +7,7 @@
 </div>
 
 
-- 🔭 I’m currently working with **Fast API, DRF, Next JS**
-
-- 🌱 I’m currently learning **Next JS**
-
-- 👯 I’m looking to collaborate on **Interesting projects**
-
-- 💬 Ask me about **Python, Django, DRF, FastAPI**
+- 🔭 I’m currently working with **Fast API, Next JS**
 
 - 📫 How to reach me [Telegram](https://t.me/samuraii143)
 
-- ⚡ Fun fact: i love Emilia❤
