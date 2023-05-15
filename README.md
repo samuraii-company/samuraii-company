@@ -9,5 +9,7 @@
 
 - 🔭 I’m currently working with **Fast API, Next JS**
 
-- 📫 How to reach me [Telegram](https://t.me/samuraii143)
+- 📫 How to reach me 
+- [Telegram](https://t.me/samuraii143)
+- [Linkedin](https://www.linkedin.com/m/in/just-alone)
 
